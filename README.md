@@ -1,4 +1,4 @@
-# Capstone_-Work_Life_Balance
+# Capstone_Work_Life_Balance
 ## Project Description
 This project analyzes a dataset about work-life balance across different work environments.
 ## Questions
