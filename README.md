@@ -13,4 +13,4 @@ This project analyzes a dataset about work-life balance across different work en
 - Seaborn
 - Jupyter Notebook
 ## Findings
-The analysis found differences in sleep quality and mental health conditions across work environments and occupations.
+This project found the difference in sleep quality and mental health conditions across work environments and occupations.
