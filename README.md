@@ -12,8 +12,8 @@ This project analyzes a dataset about work-life balance across different work en
 - Seaborn
 - Jupyter Notebook
 ## Which occupations report poor sleep quality?
-![Job Titles Reporting Poor sleep Quality](Job_Title.png)
-![description](Job_Title.png)
+![Job Titles Reporting Poor Sleep Quality](Job_Title.png)
+
 ##
 
 
