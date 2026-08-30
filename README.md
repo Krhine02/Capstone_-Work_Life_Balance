@@ -1,11 +1,11 @@
 # Capstone_Work_Life_Balance
 ## Project Description
-This project analyzes a dataset about work-life balance across different work environments. The data contains 5,000 rows and 20 Columns. The age for the dataset ranges from 22 to 60 years old.
-## Questions
+This project analyzes a dataset that explores the work-life balance across different work environments. The dataset includes individuals between the ages of 22 and 60 and explores subjects like work environment, sleep quality, mental health, and overall work-life balance.
+## Analysis Questions
 - Which occupations report poor sleep quality?
 - How does work environment relate to mental health?
 - How does age affect these results?
-## Tools
+## Tools Used 
 - Python
 - Pandas
 - Matplotlib
@@ -22,4 +22,4 @@ This project analyzes a dataset about work-life balance across different work en
 ![Mental Health Conditions by Work Environment](mental_health_work.png)
 
 ## Findings
-This project found the difference in sleep quality and mental health conditions across work environments and occupations. After reviewing and cleaning the data, I found that project managers reported poor sleep quality more often than other occupations. The data also shows that most people would rather work remotely than onsite. However, working remotely has a higher rate of mental health condition that includes anxiety and depression.  This finding suggests that human interaction and social connections like onsite work environment improves a person’s mental health and sleep quality.
+After reviewing and cleaning the data, there is not much difference in reported sleep quality across the seven different job titles, with project managers reporting the poorest sleep quality. The data also shows that remote work is the most common work environment for both age groups, but only by a small margin. Workers ages 41–60 had higher numbers of onsite and hybrid workers compared to the younger age group. The data also shows that there is not much difference in reported mental health conditions across the three work environments. Remote workers had the highest number of reports at 1,294, followed by onsite workers at 1,261 and hybrid workers at 1,249. These findings suggest that mental health concerns are present across all work environments.
