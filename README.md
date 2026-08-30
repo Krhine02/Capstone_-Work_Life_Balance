@@ -15,7 +15,7 @@ This project analyzes a dataset that explores the work-life balance across diffe
 ## Which Occupations Report Poor Sleep Quality?
 ![Job Titles Reporting Poor Sleep Quality](Job_Title.png)
 
-![Sleep_Quality_by_Age_Group](Job_Title.png)
+![Sleep Quality by Age Group](Sleep_Quality_by_Age_Group.png)
 
 ## How Does Age Affect These Results?
 ![Work Environment by Age Group](Comparison.png)
