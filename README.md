@@ -2,7 +2,7 @@
 ## Project Description
 This project analyzes a dataset that explores the work-life balance across different work environments. The dataset includes individuals between the ages of 22 and 60 and explores subjects like work environment, sleep quality, mental health, and overall work-life balance.
 
-![worklifebalance](worklifebalance.png.png)
+![worklifebalance](worklifebalance.png)
 ## Analysis Questions
 - Which occupations report poor sleep quality?
 - How does work environment relate to mental health?
