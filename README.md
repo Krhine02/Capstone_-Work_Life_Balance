@@ -12,13 +12,13 @@ This project analyzes a dataset that explores the work-life balance across diffe
 - Seaborn
 - Jupyter Notebook
 
-## Which occupations report poor sleep quality?
+## Which Occupations Report Poor Sleep Quality?
 ![Job Titles Reporting Poor Sleep Quality](Job_Title.png)
 
-## How does age affect these results?
+## How Does Age Affect These Results?
 ![Work Environment by Age Group](Comparison.png)
 
-## How does work environment relate to mental health?
+## How Does Work Environment Relate To Mental Health?
 ![Mental Health Conditions by Work Environment](mental_health_work.png)
 
 ## Findings
