@@ -1,5 +1,5 @@
-# Capstone Work Life Balance
-## Project Description
+# Work Life Balance
+## Description
 
 <p align="center">
 <img src="worklifebalance.png" alt="worklifebalance" width="400"> 
